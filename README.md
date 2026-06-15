@@ -59,4 +59,5 @@ The dashboard aims to:
 * Interactive filters for deeper analysis and decision-making.
 
 ## 5. Screenshot
+![Dashboard Preview](https://github.com/neerajyad97-sys/Healthcare-Power-BI-project/blob/main/Dashboard%20Overview.png)
 
