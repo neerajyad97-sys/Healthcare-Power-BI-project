@@ -11,7 +11,6 @@ This	dashboard was built by using the following tools and technologies:
 * Power BI Desktop - Main data visualisation platform used for report creation.
 * Power Query - Data transform and cleaning.
 * DAX(Data Analysis Expression) - Used for calculated measures, dynamic visuals.
-* Data Modeling - Relationship established among tables.
 * File format - .pbix for development
 
 ## 4. Features / Highlights
